@@ -9,7 +9,12 @@
   },
   "keywords": [
     "react",
-    "webpack"
+    "webpack",
+    "css-modules",
+    "redux",
+    "redux-actions",
+    "redux-saga",
+    "react-router"
   ],
   "repository": {
     "type": "git",
