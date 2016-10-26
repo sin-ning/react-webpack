@@ -1,7 +1,6 @@
 
 .idea/libraries/react_webpack_node_modules.xml
 
-*.xml
 
 *.iml
 
@@ -9,8 +8,14 @@ node_modules/.bin/babylon
 
 node_modules/.bin/browserslist
 
-node_modules :wq
+/node_modules
+
+/.idea
+
+*.log
 
 *.md
 
 *.json
+
+node_modules/.bin/cssesc
