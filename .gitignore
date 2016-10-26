@@ -1,10 +1,16 @@
 
-.idea/misc.xml
-
-.idea/jsLibraryMappings.xml
-
-.idea/react-webpack.iml
+.idea/libraries/react_webpack_node_modules.xml
 
 *.xml
 
-.idea/vcs.xml
+*.iml
+
+node_modules/.bin/babylon
+
+node_modules/.bin/browserslist
+
+node_modules :wq
+
+*.md
+
+*.json
